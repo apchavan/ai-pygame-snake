@@ -1,5 +1,9 @@
 ## Snake game to play using AI
 
+<div>
+<img src="./Snake-game-RL-bot.gif" />
+</div>
+
 Simple snake game 🐍 using <a href="https://www.pygame.org/">pygame</a> library to play using AI.
 
 Frameworks used:
